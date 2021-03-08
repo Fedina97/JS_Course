@@ -1,0 +1,14 @@
+#catalog{
+    width: 900px;
+    height: 600px;
+    background: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.blockProd{
+    background-color: green;
+    width: 200px;
+    height: 150px;
+}

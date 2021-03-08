@@ -1,0 +1,9 @@
+.cart{
+    width: 600px; 
+    height: 200px; 
+    border: 2px solid black;
+    font-size: 25px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
